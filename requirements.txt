@@ -15,7 +15,6 @@ onnxruntime-coreml==1.13.1; python_version == '3.9' and sys_platform == 'darwin'
 onnxruntime-silicon==1.13.1; sys_platform == 'darwin' and platform_machine == 'arm64'
 onnxruntime-gpu==1.15.1; sys_platform != 'darwin'
 tensorflow==2.13.0
-typing-extensions==4.9.0
 typing-extensions==4.6.0
 typing-extensions==3.6.6
 opennsfw2==0.10.2
